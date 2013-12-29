@@ -4,7 +4,9 @@ Tango Smileys Extended
 **This is not my plugin**. I'm sharing it here because it's no longer available on Wordpress.org for a reason unknown to me. I think it was a good plugin and I haven't found any replacement for it, - maybe someone shares my thoughts.
 
 
-** Original Readme.txt below **
+** Original Readme.txt: **
+~~~
+
 === Tango Smileys Extended ===
 Contributors: whesleymccabe
 Donate link: http://munashiku.slightofmind.net/
@@ -182,4 +184,4 @@ Initial release
 
 1. All 202 smileys
 
-
+~~~
