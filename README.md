@@ -1,10 +1,10 @@
 Tango Smileys Extended
 ======================
 
-**This is not my plugin**. I'm sharing it here because it's no longer available on Wordpress.org for a reason unknown to me. I think it was a good plugin and I haven't found any replacement for it, - maybe someone shares my thoughts.
+**I am not the author of this plugin**. I'm sharing it here because it's no longer available on Wordpress.org for a reason unknown to me. I think it was a good plugin and I haven't found any replacement for it, - maybe someone shares my thoughts.
 
 
-** Original Readme.txt:**  
+**Original Readme.txt:**  
 
 ~~~
 
